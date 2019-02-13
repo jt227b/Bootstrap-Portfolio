@@ -11,6 +11,25 @@ body{
     line-height:1.5em;
 }
 
+.navbar-brand{
+  padding: 15px;
+  background-color: red;
+  color: #fff;
+  font-weight: bold;
+  margin-left: 100px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+ 
+}
+
+#navbarNav{
+  justify-content: end;
+  background-color: white;
+  color: black;
+  width: 800px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
 
 
 .container{
