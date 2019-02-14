@@ -17,18 +17,19 @@ font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 .navbar {
-    
+    background-color: #fff;
+    color: #777;
+    padding-left: 100px;
     padding-top: 0;
     padding-bottom: 0;
     border-bottom:#ccc 3px solid;
-    width: 100%;
-
-    overflow: hidden;
-    
-    
+ 
     
 }
 
+.nav-item{
+    background-color: #fff;
+}
 
 .container-box {
     position: relative;
