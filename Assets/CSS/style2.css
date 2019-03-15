@@ -64,7 +64,9 @@ font-family: Georgia, 'Times New Roman', Times, serif;
     color: #777;
 }
 
-
+a:link {
+    color: #fff;
+}
  
 
  
